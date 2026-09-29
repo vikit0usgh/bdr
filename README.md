@@ -241,6 +241,3 @@ Quando a resposta chega, o cronômetro para e mostra o tempo final medido pela r
 
 O botão **Enviar** fica desabilitado durante a execução para evitar o disparo acidental de várias requisições simultâneas na mesma aba.
 
-## Importação de cURL
-
-A importação de cURL não exibe mais uma janela de alerta. O comando é convertido silenciosamente para os campos da request.
